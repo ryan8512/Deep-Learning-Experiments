@@ -43,12 +43,13 @@
   - [DenseNet](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter2-deep-networks/densenet-cifar10-2.4.1.py)  
   - [ResNet](https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py)
 8. [Embeddings](https://docs.google.com/presentation/d/1YtKWA53T2NqXoL0vnk8jWl1WCBWCLhbh5OWz_1JrGdU/edit?usp=sharing) 
+- Keras Sample Code
+  - [Simple Embedding and Sentiment Analysis](keras/embedding/sentiment_analysis.ipynb)
+  - [Glove Embedding](keras/embedding/glove_embedding.ipynb)
 9. [Recurrent Neural Networks, LSTM, GRU](https://docs.google.com/presentation/d/1qjQkUwnr2V--7JPz0H_wkzRyTYX3UtJsYrB3MQPGKLE/edit?usp=sharing)
 - Keras Sample Code
-  - [Sequence to Sequence for Machine Translation (Filipino-English)](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/keras/seq2seq/seq2seq_translate.py)
-- Utils for Testing Sentence Similarity
-  - [BLEU](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/utils/bleu_similarity.py)
-  - [Spacy](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/utils/spacy_similarity.py)
+  - [SimpleRNN on MNIST](keras/rnn/simple-rnn-mnist.ipynb)
+  - [CuDNNLSTM on MNIST](keras/rnn/cudnnlstm-mnist.ipynb)
 10. [AutoEncoders](https://docs.google.com/presentation/d/1gXWl0luuDe1qoQLSKdOUrzoq51WhhNLeq7x3PxQXYkA/edit?usp=sharing)
 - Keras Sample Code
   - [AutoEncoder](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter3-autoencoders/autoencoder-mnist-3.2.1.py)
@@ -58,6 +59,19 @@
 - Keras Sample Code
   - [DCGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter4-gan/dcgan-mnist-4.2.1.py)
   - [CGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter4-gan/cgan-mnist-4.3.1.py)
+  
+11a. [Improved GANs](https://docs.google.com/presentation/d/1tATpY1gzJo8x6Ziceln-KjcgEeqX-fnapL6IFdc9Wbk/edit?usp=sharing)
+- Keras Sample Code
+  - [WGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter5-improved-gan/wgan-mnist-5.1.2.py)
+  - [LSGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter5-improved-gan/lsgan-mnist-5.2.1.py)
+  - [ACGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter5-improved-gan/acgan-mnist-5.3.1.py)
+  
+11b. [Disentangled GAN](https://docs.google.com/presentation/d/1XboUGxLB1wYqJppsYiToq120JLhAOiuxLMUNbSfy_dk/edit?usp=sharing)
+  - [InfoGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter6-disentangled-gan/infogan-mnist-6.1.1.py)
+  
+11c. [Cross-Domain GAN](https://docs.google.com/presentation/d/17lizm6BGtDB7OIR1XQHGH-VzcoM5N0vBnjOhIlcAwZs/edit?usp=sharing)
+  - [CycleGAN](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter7-cross-domain-gan/cyclegan-7.1.1.py)
+
 12. [Variational Autoencoder (VAE)](https://docs.google.com/presentation/d/1ORVwhh5PgWEehcUQYL9t8nBCk9cj4TgXmUJIl6WMkpo/edit?usp=sharing)
 - Keras Sample Code
   - [VAE MLP](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter8-vae/vae-mlp-mnist-8.1.1.py)
